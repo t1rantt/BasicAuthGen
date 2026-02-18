@@ -1,0 +1,2 @@
+# BasicAuthGen
+BasicAuth Wordlist Generator
